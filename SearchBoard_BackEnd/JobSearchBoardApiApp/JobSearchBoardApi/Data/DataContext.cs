@@ -1,10 +1,5 @@
 ﻿using JobSearchBoardApi.Models;
 using Microsoft.EntityFrameworkCore;    //Instaled by Microsoft.EntityFrameworkCore nuget
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JobSearchBoardApi.Data
 {
